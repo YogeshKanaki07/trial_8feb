@@ -1,1 +1,2 @@
-This is v1 of f2
+This v1.
+updated for next version v1.1.2
